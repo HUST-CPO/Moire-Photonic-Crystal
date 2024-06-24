@@ -1,8 +1,8 @@
-# Moiré Photonic Crystal Band Calculation (MoiréPhC)
+# Moiré Photonic Crystal Band Calculation (MPCBC)
 ![MoirePhC_schematic](/github_cover.png)
 
 ## Overview
-The open-source MATLAB package MoiréPhC is a numerical program for calculating the physical properties of incommensurate Moiré photonic crystals such as the band structures, density of states, and eigenmodes. The program is capable of computing 2D Moiré photonic crystals with arbitrary twist angles based on the improved plane-wave expansion method. 
+The open-source MATLAB package MPCBC is a numerical program for calculating the physical properties of incommensurate Moiré photonic crystals such as the band structures, density of states, and eigenmodes. The program is capable of computing 2D Moiré photonic crystals with arbitrary twist angles based on the improved plane-wave expansion method. 
 
 ## Usage
 ### Scripts
